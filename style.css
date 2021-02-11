@@ -1,0 +1,19 @@
+body {
+	background-color: cyan
+		
+}
+b {
+	font-family: fantasy ;
+		color: black ;
+	font-size: 20px ;
+}
+#camera {
+	border : 2px ridge black ;
+	height: 300px ;
+	width: 350px;
+}
+.heading {
+	width : 80% ;
+	height : 60px ;
+	font-size: 25px ;
+}
